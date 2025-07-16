@@ -16,7 +16,7 @@ const projects=[
         imageUrl:"https://ehopper.com/wp-content/uploads/best-ecommerce-website-design-examples-1800x1013.png",
         name:"NxtTrends E-com",
         description:"Helpful for the users to view the products and add them into the cart And sort the products based on there prices, ratings and categories.",
-        projectUrl:"https://devwikatrends.ccbp.tech/login"
+        projectUrl:"https://naturegallery12.niat.tech/"
     },
     {
         id:3,

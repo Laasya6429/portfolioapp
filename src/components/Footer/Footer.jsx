@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-top">
             <div className="footer-top-left">
              <img src={logo} alt="footer-logo" className='footer-logo'/>
-             <p>I am  a fullstack techie at NxtWave 4.0 academy.</p>
+             <p>I am  a fullstack techie at NIAT.</p>
             </div>
             <div className="footer-top-right">
               <div className="footer-email-input">
@@ -22,7 +22,7 @@ const Footer = () => {
         </div>
         <hr/>
        <div className="footer-bottom">
-        <p className='footer-bottom-lefft'>@ 2024 Devender Narra. All rights reserved</p>
+        <p className='footer-bottom-lefft'>@ 2025 Laasya Oleti. All rights reserved</p>
        <div className="footer-bottom-right">
         <p>Term of Services</p>
         <p>Privacy Policy</p>
