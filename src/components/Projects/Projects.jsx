@@ -13,24 +13,24 @@ const projects=[
     },
     {
         id:2,
-        imageUrl:"https://ehopper.com/wp-content/uploads/best-ecommerce-website-design-examples-1800x1013.png",
-        name:"NxtTrends E-com",
-        description:"Helpful for the users to view the products and add them into the cart And sort the products based on there prices, ratings and categories.",
+        imageUrl:"https://res.cloudinary.com/dcleh8vt3/image/upload/v1752732267/Screenshot_2025-07-17_113315_xcwscl.png",
+        name:"PixelView Gallery",
+        description:"PixelView Gallery is a sleek and responsive image gallery built with HTML and Tailwind CSS. It offers a clean layout to showcase photos beautifully across all devices.",
         projectUrl:"https://naturegallery12.niat.tech/"
     },
     {
         id:3,
-        imageUrl:"https://screenshots.codesandbox.io/kuzd2s/0.png",
-        name:"Jobby Application",
-        description:"Jobby is the app built in the name of flexibility and transparency through which you can access hundreds of job opportunities every day.",
-        projectUrl:"https://devjobby.ccbp.tech/login"
+        imageUrl:"https://res.cloudinary.com/dcleh8vt3/image/upload/v1752731726/Screenshot_2025-07-17_112108_v1esa2.png",
+        name:"Ice-Cream Website",
+        description:"A vibrant and visually delightful ice cream website showcasing a range of tasty treats. Designed with smooth layouts and appealing colors, it brings a refreshing digital experience for dessert lovers.",
+        projectUrl:"https://ice-cream-website-sandy.vercel.app/"
     },
     {
         id:4,
-        imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl9EqF0Dbu9oxIz9d_Fe1EAjyo1_bePQC1A&s",
-        name:"AI-Based Web Application with React.js & AWS Cloud APIs",
-        description:"Spot Faces, Age, Gender & Emotions, Discover Objects - Identify What's Around and Find Celebrities - Spot the Stars.",
-        projectUrl:"https://reactvthai.ccbp.tech/"
+        imageUrl:"https://res.cloudinary.com/dolw4wncb/image/upload/v1752561580/download_bknvkb.jpg",
+        name:"Wikipedia Search",
+        description:"A simple and efficient Wikipedia search tool that fetches real-time results using the Wikipedia API. Designed for quick access to articles with a clean and user-friendly interface.",
+        projectUrl:"http://wikiport.niat.tech"
     }
 ]
 

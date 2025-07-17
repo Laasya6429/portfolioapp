@@ -16,14 +16,14 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I recently graduated with a degree in Computer Science from Vaagdevi College of Engineering, Warangal, Telangana. I have developed several websites that are fully responsive and dynamic, showcasing my ability to create seamless and adaptive user experiences.</p>
+                <p>I am currently pursuing a Bachelor's degree in Computer Science from Bits pilani. I have developed several websites that are fully responsive and dynamic, showcasing my ability to create seamless and adaptive user experiences.</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill">
                     <p>HTML & CSS</p><hr className="line" style={{width:"80%"}}/>
-                    <p>JavaScript</p><hr style={{width:"70%"}}/>
-                    <p>React.js</p><hr style={{width:"80%"}}/>
-                    <p>Node.js</p><hr style={{width:"75%"}}/>
+                    <p>JavaScript</p><hr style={{width:"60%"}}/>
+                    <p>Docker</p><hr style={{width:"60%"}}/>
+                    <p>Jenkins</p><hr style={{width:"50%"}}/>
                     <p>MySQL</p><hr style={{width:"70%"}}/>
                     <p>python</p><hr style={{width:"80%"}}/>
                 </div>
